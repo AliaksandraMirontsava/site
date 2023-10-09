@@ -54,6 +54,7 @@ html, body {
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
   font-size: 12px;
   letter-spacing: 1px;
+  padding-top: 1px;
   color: rgb(0, 0, 0);
 }
 
@@ -196,7 +197,7 @@ html, body {
   text-align: center;
   padding-top: 3px;
   font-size: 11px;
-  color: rgb(83, 82, 88);
+  color: rgb(128, 128, 131);
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
   letter-spacing: 1px;
 }
