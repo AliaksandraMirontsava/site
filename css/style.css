@@ -10,6 +10,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: rgb(255, 255, 255);
   position: relative;
 }
 
@@ -53,6 +54,7 @@ html, body {
 
 .content {
   margin-top: 39px;
+  background-color: rgb(255, 255, 255);
 }
 
 .info__items {
