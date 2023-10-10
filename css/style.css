@@ -67,12 +67,14 @@ html, body {
   font-size: 16px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
+  font-weight:normal
 }
 .left strong {
   color: rgb(30, 141, 238);
   font-size: 16px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
+  font-weight:normal
 }
 .left__items {
   display: flex;
@@ -119,12 +121,14 @@ html, body {
   font-size: 17px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
+  font-weight:normal
 }
 .right strong {
   color: rgb(30, 141, 238);
   font-size: 17px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
+  font-weight:normal
 }
 .right__item {
   padding: 2px 0px;
