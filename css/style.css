@@ -33,7 +33,7 @@ html, body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 5px 0px;
+  padding: 5px 0px 2px;
 }
 .header__pic {
   width: 280px;
@@ -58,7 +58,7 @@ html, body {
 }
 
 .content {
-  margin-top: 50px;
+  margin-top: 47px;
   background-color: rgb(255, 255, 255);
 }
 
