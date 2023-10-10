@@ -62,19 +62,21 @@ html, body {
   padding: 3px 10px 2px;
   border-top: 1px solid rgb(229, 229, 229);
 }
-.left b {
+.left b, .left em {
   color: rgb(216, 67, 60);
   font-size: 16px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
-  font-weight:normal
+  font-weight: normal;
+  font-style: normal;
 }
-.left strong {
+.left strong, .left i {
   color: rgb(30, 141, 238);
   font-size: 16px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
-  font-weight:normal
+  font-weight: normal;
+  font-style: normal;
 }
 .left__items {
   display: flex;
@@ -116,19 +118,21 @@ html, body {
   object-fit: cover;
 }
 
-.right b {
+.right em {
   color: rgb(216, 67, 60);
   font-size: 17px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
-  font-weight:normal
+  font-weight: normal;
+  font-style: normal;
 }
-.right strong {
+.right i {
   color: rgb(30, 141, 238);
   font-size: 17px;
   letter-spacing: 0px;
   font-family: "Helvetica Neue LT Com 77 Bold Condensed Oblique V2";
-  font-weight:normal
+  font-weight: normal;
+  font-style: normal;
 }
 .right__item {
   padding: 2px 0px;
